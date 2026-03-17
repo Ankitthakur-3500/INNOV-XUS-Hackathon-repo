@@ -1,8 +1,6 @@
 """
-PharmaLink AI — Smart Drug Redistribution Platform
+Medi Flow AI — Smart Drug Redistribution Platform
 Chandigarh Tri-City Edition (Chandigarh · Mohali · Panchkula)
-Run with: streamlit run pharmalink_dashboard.py
-Dependencies: pip install streamlit plotly pandas numpy
 """
 
 import streamlit as st
